@@ -30,3 +30,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local-only, not part of the deployed app
+/.claude/
+/package-lock.json
+supabase/.temp/
